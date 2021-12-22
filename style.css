@@ -1,0 +1,66 @@
+* {
+    font-family: 'Amiri', serif;
+ 
+}
+/* navbar start */
+ul {
+    list-style-type: none;
+    padding: 15px;
+    margin: 15px;
+    background:gray;
+   }
+ 
+ul li  {
+    display:inline-block;
+    }
+a:link{
+    text-decoration: none;
+   
+    
+}
+h1{
+    text-align: center;
+}
+/* navbar end */ 
+/* navbar second start*/
+
+/* navbar second end */
+/* article start*/
+.tach{
+    width: 45%;
+    height: 100%;
+  
+    margin: 15px;
+    float: left;
+}
+.word{
+    width: 45%;
+    height: 100%;
+  
+    margin: 15px;
+    float: right;
+}
+p{
+  padding:10px ;
+
+  font-size: larger;
+}
+.salat{
+    border: 1px solid black;
+    padding: 25px;
+    font-size: xx-large;
+    border-radius: 12px;
+}
+/* article end*/
+/* card start */
+.card{
+    float: left;
+    margin: 25px;
+    box-shadow: 10px 10px 10px rgba(8, 0, 0, 0.5);
+
+}
+/* card end */
+.ArticleTexte
+{
+	background-color : white ;
+}
